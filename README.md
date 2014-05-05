@@ -1,4 +1,4 @@
-angularjs-common-validation
-===========================
+# angularjs-sanbox
 
-Basic validation directives
+Sandbox for AngularJs
+
